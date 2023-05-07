@@ -1,5 +1,4 @@
 // Other Modules : 
-//import {ChartModule} from 'primeng/chart';
 import { BrowserModule } from "@angular/platform-browser";
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { NgModule } from "@angular/core";
@@ -81,7 +80,6 @@ import { LandingComponent } from './components/spacy/landing/landing.component';
     HttpClientModule,
     RouterModule,
     AppRoutingModule,
-    //ChartModule,
     BsDropdownModule.forRoot(),
     ProgressbarModule.forRoot(),
     TooltipModule.forRoot(),

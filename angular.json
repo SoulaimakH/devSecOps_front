@@ -23,7 +23,7 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "src/tsconfig.app.json",
             "allowedCommonJsDependencies": [
-              "chart.js",
+         
               "nouislider"
             ],
             "assets": [
@@ -39,7 +39,7 @@
               "src/assets/demo/demo.css"
             ],
             "scripts": [ 
-              "./node_modules/chart.js/dist/chart.js"
+       
            ]
           },
           "configurations": {

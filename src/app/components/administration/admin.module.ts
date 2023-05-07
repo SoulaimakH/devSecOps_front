@@ -5,7 +5,6 @@ import { FormsModule, ReactiveFormsModule } from "@angular/forms";
 import { BrowserModule } from "@angular/platform-browser";
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { RouterModule } from "@angular/router";
-//import { ChartModule } from "primeng/chart";
 import { AdminProfilecomponementComponent } from "./admin-profilecomponement/admin-profilecomponement.component";
 import { AdministrationComponent } from "./administration.component";
 import { DashbordcomponementComponent } from "./dashbordcomponement/dashbordcomponement.component";
@@ -25,7 +24,6 @@ import { UserListcomponementComponent } from "./user-listcomponement/user-listco
     FormsModule,
     HttpClientModule,
     RouterModule,
-       // ChartModule,
     ],
     declarations: [
     AdministrationComponent,
