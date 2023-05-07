@@ -83,7 +83,7 @@
     "jw-bootstrap-switch-ng2": "2.0.5",
     "ngx-bootstrap": "^6.2.0",
     "nouislider": "^14.6.3",
-    "primeng": "^8.1.1",
+    "primeng": "^9.0.0",
     "rxjs": "6.6.3",
     "tslib": "2.0.3",
     "zone.js": "0.11.3"
